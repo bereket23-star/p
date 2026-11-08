@@ -1,0 +1,8 @@
+{
+  "appId": "com.qualiexam.friends",
+  "appName": "Quali Exam Prep (Friends)",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
